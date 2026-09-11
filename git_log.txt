@@ -1,0 +1,52 @@
+commit 1de74acaf85a3d213b0aa4d78abc9fab37df8c0e
+Merge: 39a73de d11d674
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Thu Sep 10 02:26:04 2026 -0700
+
+    Ran a merge conflict for Part 3
+
+commit d11d674f61767870f87334bf952fe309c77502db
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Thu Sep 10 01:13:50 2026 -0700
+
+    Added a div of my favorite game
+
+commit 39a73de1b5664a33e237ee4af106383d55990b7d
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Thu Sep 10 01:10:23 2026 -0700
+
+    Added a div of my favorite food
+
+commit 8ef9781ab428fd273369e92d942ed86ce310a901
+Merge: 6eb3bde 9475d3a
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Fri Sep 4 13:33:49 2026 -0700
+
+    Added the README.md for Part 2
+
+commit 6eb3bde86143289535655281626ea114514950da
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Fri Sep 4 13:29:07 2026 -0700
+
+    Added the README.md for Part 2
+
+commit 9475d3a8612142e01371016370607c2b89d06a5f
+Merge: 1d2bfc0 177dad7
+Author: lbanue18-a11y <lbanue18@calstatela.edu>
+Date:   Fri Sep 4 13:19:18 2026 -0700
+
+    Merge pull request #1 from lbanue18-a11y/info-fill
+    
+    Added name and hobby in index.html for step 6
+
+commit 177dad7f33a5b2a9d761ece5f1ae78269a301ba2
+Author: Leonardo Banuelos <lbanue18@calstatela.edu>
+Date:   Fri Sep 4 13:04:18 2026 -0700
+
+    Added name and hobby in index.html for step 6
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
